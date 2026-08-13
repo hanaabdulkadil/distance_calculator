@@ -12,17 +12,19 @@ The program calculates the distance between two points on a coordinate plane usi
 5. Close the file
 
 ## Input Needed
-x1 : x-coordinate of the first point
-y1 : y-coordinate of the first point
-x2 : x-coordinate of the second point
-y2 : y-coordinate of the second point
+- x1 : x-coordinate of the first point
+- y1 : y-coordinate of the first point
+- x2 : x-coordinate of the second point
+- y2 : y-coordinate of the second point
 
 ## Sample Output
-Enter x1:6
-Enter y1:7
-Enter x2:6
-Enter y2:7
-The distance between the two points is: 0.0
+'''
+- Enter x1:6
+- Enter y1:7
+- Enter x2:6
+- Enter y2:7
+- The distance between the two points is: 0.0
+'''
 
 ## Author
 Name: ABDULKADIL, HANA SHAZFA B.
