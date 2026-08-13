@@ -2,16 +2,20 @@
 # Calculate the final distance between the two points
 
 ## Description
-The program
+The program calculates the distance between two points on a coordinate plane.
 
 ## How to Run
-1. Open the program
-2. Input your variables
-3. Get your answer
-4. Close the program
+1. Open the file in Visual Studio Code
+2. Make sure you are using Python
+3. Input your variables
+4. Get your answer
+5. Close the file
 
 ## Input Needed
-- x1, y1, x2, y2
+x1 : x-coordinate of the first point
+y1 : y-coordinate of the first point
+x2 : x-coordinate of the second point
+y2 : y-coordinate of the second point
 
 ## Sample Output
 Enter x1:6
