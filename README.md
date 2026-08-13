@@ -2,7 +2,7 @@
 # Calculate the final distance between the two points
 
 ## Description
-The program calculates the distance between two points on a coordinate plane.
+The program calculates the distance between two points on a coordinate plane using the distance formula.
 
 ## How to Run
 1. Open the file in Visual Studio Code
