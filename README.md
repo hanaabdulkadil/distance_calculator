@@ -27,5 +27,7 @@ The program calculates the distance between two points on a coordinate plane usi
 ```
 
 ## Author
+```
 Name: ABDULKADIL, HANA SHAZFA B.
 Section: 8 - MAHOGANY
+```
